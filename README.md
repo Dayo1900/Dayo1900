@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dayo1900
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Google cloud platform, HTML, CSS and PHP.
+- 👋 Hi, I’m Ekundayo Abdul
+- 👀 I’m a web developer
+- 🌱 I enjoy pair programming 
+- 💞️ I’m looking to collaborate on Google Cloud Platform, HTML, CSS, Vanilla JS and PHP.
 - 📫 How to reach me ...
 
 <!---
